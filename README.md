@@ -1,2 +1,2 @@
 # C-Project
-c App of purshases managment
+Une application devlopée avec le langage C pour la gestion des achats.
