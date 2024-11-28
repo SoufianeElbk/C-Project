@@ -1,2 +1,1 @@
-# C-Project
-Une application devlopée avec le langage C pour la gestion des achats.
+Une application développée en langage C pour pratiquer les structures de données, notamment les listes simplement chaînées.
